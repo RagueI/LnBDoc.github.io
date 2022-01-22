@@ -28,7 +28,7 @@
 
 
 
-## Card
+## `abstract` Card 
 
 > ### Description
 > This is an abstract class
@@ -72,13 +72,13 @@
 
 
 > ### SubClasses
-  - #### CardInHand
-  - #### CardNotInHand
-  - #### CounterCard
-  - #### FieldCard
-  - #### ItemCard
-  - #### RegularCard
-  - #### WeaponCard
+  - #### [CardInHand](Card.Properties/CardInHand.md)
+  - #### [CardNotInHand](Card.Properties/CardNotInHand.md)
+  - #### [CounterCard](Card.Properties/CounterCard.md)
+  - #### [FieldCard](Card.Properties/FieldCard.md)
+  - #### [ItemCard](Card.Properties/ItemCard.md)
+  - #### [RegularCard](Card.Properties/RegularCard.md)
+  - #### [WeaponCard](Card.Properties/WeaponCard.md)
 ---
 
 
