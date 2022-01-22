@@ -1,4 +1,4 @@
-- [Home Page](https://raguei.github.io/LnBDoc.github.io/#/) 
+- [Home Page](README.md) 
 - Github 仓库
   - [Github Repo](https://github.com/RagueI/Production-Card-Game-Development)
   - [Github Commits](https://github.com/RagueI/Production-Card-Game-Development/commits/main)
