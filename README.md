@@ -95,20 +95,22 @@
 > ### Properties
 > #### public
 > **string**
->> ##### [CHARACTER_NAME]()
->> ##### [CHARACTER_HP]()
+>> ##### [CHARACTER_NAME](Character.Properties/CHARACTER_NAME.md)
+
 >
 > **int**
->> ##### [CHARACTER_DRAW_COUNT]()
->> ##### [CURRENT_CARD_COUNT]()
->> ##### [CARD_SAVE_COUNT]()
->> ##### [CURRENT_POSITION]()
+> >> ##### [CHARACTER_HP](Character.Properties/CHARACTER_HP.md)
+>> ##### [CHARACTER_DRAW_COUNT](Character.Properties/CHARACTER_DRAW_COUNT.md)
+>> ##### [CURRENT_CARD_COUNT](Character.Properties/CURRENT_CARD_COUNT.md)
+>> ##### [CARD_SAVE_COUNT](Character.Properties/CARD_SAVE_COUNT.md)
+>> ##### [CURRENT_POSITION](Character.Properties/CURRENT_POSITION.md)
+
 >
 >**Skill**
 >> ##### [skill]()
 >
 >**enum**
->> ##### [status]()
+>> ##### [status](Character.Properties/status.md)
 
 
 
