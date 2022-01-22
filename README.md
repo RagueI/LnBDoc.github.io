@@ -44,15 +44,15 @@
 >> ##### [CARD_ROLE](Card.Properties/CARD_ROLE.md)
 >> ##### [CARD_TAG](Card.Properties/CARD_TAG.md)
 >> ##### [CARD_IMAGE](Card.Properties/CARD_IMAGE.md)
-
+>
 > **bool**
 >> ##### [IN_SET](Card.Properties/IN_SET.md)
 >> ##### [IN_HAND](Card.Properties/IN_HAND.md)
 >> ##### [CARD_USAGE_LIMIT](Card.Properties/CARD_USAGE_LIMIT.md)
-
+>
 > **int**
 >> ##### [CARD_INDEX_IN_SET](Card.Properties/CARD_INDEX_IN_SET.md)
-
+>
 > **enum**
 >> ##### [CARD_CONDITION](Card.Properties/CARD_CONDITION.md)
 >> ##### [CARD_CATEGORY](Card.Properties/CARD_CATEGORY.md)
@@ -66,7 +66,7 @@
 
 > ### Functions
 >> #### Virtual Functions
-
+>>
 >>> ##### [DebugThis()](Card.Properties/VirtualFuntion.md)
 
 
@@ -85,13 +85,39 @@
 
 
 
-## Character
+## `abstract` Character
 
 > ### Description
+> This is an abstract class
+
+<br>
 
 > ### Properties
+> #### public
+> **string**
+>> ##### [CHARACTER_NAME]()
+>> ##### [CHARACTER_HP]()
+>
+> **int**
+>> ##### [CHARACTER_DRAW_COUNT]()
+>> ##### [CURRENT_CARD_COUNT]()
+>> ##### [CARD_SAVE_COUNT]()
+>> ##### [CURRENT_POSITION]()
+>
+>**Skill**
+>> ##### [skill]()
+>
+>**enum**
+>> ##### [status]()
+
+
+
+
 
 > ### Functions
+>> #### Virtual Function
+>>
+>>> ##### [DebugThis()]()
 ---
 
 
