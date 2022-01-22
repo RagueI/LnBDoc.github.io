@@ -67,7 +67,7 @@
 > ### Functions
 >> #### Virtual Functions
 
->>> ##### DebugThis()
+>>> ##### [DebugThis()](Card.Properties/VirtualFuntion.md)
 
 
 
