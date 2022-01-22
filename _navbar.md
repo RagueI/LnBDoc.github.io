@@ -1,0 +1,6 @@
+- Github 仓库
+  - [Github Repo](https://github.com/RagueI/Production-Card-Game-Development)
+  - [Github Commits](https://github.com/RagueI/Production-Card-Game-Development/commits/main)
+  - [Github Kanban](https://github.com/RagueI/Production-Card-Game-Development/projects/1)
+- Discussion
+  - [Discussion](https://github.com/RagueI/Production-Card-Game-Development/discussions/categories/%E7%AD%96%E5%88%92%E5%92%8C%E5%BC%80%E5%8F%91%E8%80%85-%E9%9C%80%E6%B1%82%E7%9A%84%E6%B2%9F%E9%80%9A)
