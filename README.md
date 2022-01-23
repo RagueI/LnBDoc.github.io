@@ -96,7 +96,7 @@
 > #### public
 > **string**
 >> ##### [CHARACTER_NAME](Character.Properties/CHARACTER_NAME.md)
-
+>
 >
 > **int**
 > >> ##### [CHARACTER_HP](Character.Properties/CHARACTER_HP.md)
@@ -104,7 +104,7 @@
 >> ##### [CURRENT_CARD_COUNT](Character.Properties/CURRENT_CARD_COUNT.md)
 >> ##### [CARD_SAVE_COUNT](Character.Properties/CARD_SAVE_COUNT.md)
 >> ##### [CURRENT_POSITION](Character.Properties/CURRENT_POSITION.md)
-
+>
 >
 >**Skill**
 >> ##### [skill]()
